@@ -66,10 +66,21 @@ public class Hibernate {
          * 
          */
 //        System.out.println(cc.getById("AU").getName()); 
-        
+          
+         
 //        Department department = new Department(new Short("270"), "Bawen");
+          /**
+           * fungsi manual test controller insert
+           */
 //        System.out.println(cc.save("KY", "Kongok", "3"));
-        System.out.println(cc.delete("AW"));
+
+           /**
+            * fungsi manual test controller search 
+            */
+//          for (Country country : cc.search("AY")) {
+//            System.out.println(country.getName());
+//          }
+          
         
 //        System.out.println(dc.save("281", "dept", "100", "1700"));
 
